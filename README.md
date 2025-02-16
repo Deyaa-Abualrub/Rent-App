@@ -10,15 +10,7 @@ User Search: Browse a variety of apartments and studio listings based on locatio
 Detailed Listings: Each listing includes essential information such as rent price, photos, amenities, and contact details.
 Admin Dashboard: An administrative interface for managing users, properties, and other aspects of the platform.
 Responsive Design: Access the website seamlessly on mobile and desktop devices.
-Team Members
-SM (Scrum Master): Rami Abdelhamid
-PO (Product Owner): Deya’a Abualrub
-QA (Quality Assurance): Abdullah Ghawanmeh
-Developers:
-Heba Maaitah
-Ghofran Hijazi
-Hala Abu Shehab
-Admin Dashboard
+
 The Admin Dashboard provides a comprehensive control panel to manage the platform's content and users. Features include:
 
 User Management: View, update, and remove users.
